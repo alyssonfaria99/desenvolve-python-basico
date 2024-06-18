@@ -1,4 +1,5 @@
-O resultado da multiplicação do 9 por um valor n, onde 1 <= n <= 10, é calculado por dígito, da seguinte maneira:
-digito1 = n-1 
-digito2 = 10-n 
-O resultado final é dado pela soma do segundo dígito com o primeiro dígito multiplicado por 10.
+Leia e armazene o valor n pelo qual o número 9 será multiplicado;
+Encontre o primeiro dígito, que é igual a n - 1
+Encontre o segundo dígito, que é igual a 10 - n
+Encontre o resultado final, que é dado pela soma do segundo dígito com o primeiro dígito multiplicado por 10.
+

@@ -1,3 +1,4 @@
+n = inteiro
 para 1 <= n <= 10 :
 primeiro dígito = n - 1
 segundo dígito = 10 - n
