@@ -1,0 +1,4 @@
+para 1 <= n <= 10 :
+primeiro dígito = n - 1
+segundo dígito = 10 - n
+resultado = primeiro digito * 10 + segundo digito
