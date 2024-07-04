@@ -1,0 +1,10 @@
+aluno
+futebol
+atletico
+mineiro
+galo
+musica
+esporte
+computador
+internet
+viagem
